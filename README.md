@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 25/02/25 Added hero cards.
-26/02/25 Working on ideas and features that could be included within the hero page
+26/02/25 Working on ideas and features that could be included within the hero page.
+27/02/25 Added a navbar and work on it's functionallity and styling
 ## Getting Started
 
 First, run the development server:
